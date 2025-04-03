@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+skills_getting_started_with_github_copilot.egg-info/PKG-INFO
+skills_getting_started_with_github_copilot.egg-info/SOURCES.txt
+skills_getting_started_with_github_copilot.egg-info/dependency_links.txt
+skills_getting_started_with_github_copilot.egg-info/top_level.txt
+tests/test_app.py
